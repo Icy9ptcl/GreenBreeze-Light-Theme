@@ -1,30 +1,38 @@
 {
-    "name": "greenbreeze-light",
-    "displayName": "GreenBreeze-Light",
-    "description": "A VSCode theme focuses on green and blue colour, with a bit higher contrast to avoid hurting your eyes.",
-    "version": "0.0.1",
-    "publisher": "Icy9ptcl",
-    "engines": {
-        "vscode": "^1.67.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Icy9ptcl/GreenBreeze-Light-Theme"
-    },
-    "keywords": [
-        "Theme", "Green", "Light"
-    ],
-    "preview": true,
-    "contributes": {
-        "themes": [
-            {
-                "label": "Green Breeze Light",
-                "uiTheme": "vs",
-                "path": "./themes/GreenBreeze-Light-color-theme.json"
-            }
-        ]
-    }
+	"name": "greenbreeze-light",
+	"displayName": "GreenBreeze-Light",
+	"description": "A VSCode theme focuses on green and blue colour, with a bit higher contrast to avoid hurting your eyes.",
+	"version": "0.0.1",
+	"publisher": "icy9ptcl",
+	"engines": {
+		"vscode": "^1.67.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Icy9ptcl/GreenBreeze-Light-Theme"
+	},
+	"keywords": [
+		"Theme",
+		"Green",
+		"Light"
+	],
+	"preview": true,
+	"contributes": {
+		"themes": [
+			{
+				"label": "Green Breeze Light",
+				"uiTheme": "vs",
+				"path": "./themes/GreenBreeze-Light-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "0057fccb-515b-4048-9e4b-819df52eb63e",
+		"publisherDisplayName": "icy9ptcl",
+		"publisherId": "d29d356a-0d51-428a-84ae-99bc3f6de5e3",
+		"isPreReleaseVersion": false
+	}
 }
