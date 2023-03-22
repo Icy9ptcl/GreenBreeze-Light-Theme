@@ -1,8 +1,8 @@
 {
 	"name": "greenbreeze-light",
 	"displayName": "GreenBreeze-Light",
-	"description": "A VSCode theme focuses on green and blue colour, with a bit higher contrast to avoid hurting your eyes.",
-	"version": "0.0.1",
+	"description": "A VSCode theme focuses on green and blue colour, with a bit more contrast to avoid hurting your eyes.",
+	"version": "0.0.4",
 	"publisher": "icy9ptcl",
 	"engines": {
 		"vscode": "^1.67.0"
